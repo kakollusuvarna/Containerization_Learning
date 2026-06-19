@@ -34,4 +34,22 @@ Docker images are very light weight reasons:
 - It packages app and its depndencies and share the common Host
 - easy to ship
   
+Life cycle of Docker container.
+
+write some commands and create docker file--> create Docker image and also run the container --> push to Docker registory----------> from Docker registory--> we can again pull the image and run the container
+
+Docker engine is playing a role in creating and running an image and container-- we use build and run commands.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
